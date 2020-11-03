@@ -1,6 +1,6 @@
 DRIVER = 'postgresql'
 USER = 'postgres'
-PASS = ''
+PASS = 'j6kethfa'
 HOST = 'localhost'
 DB_NAME = 'stream'
 

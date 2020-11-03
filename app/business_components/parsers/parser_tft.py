@@ -12,7 +12,6 @@ class ParserTFT:
             if player_stat['puuid'] == puuid:
                 personal_stat = player_stat
                 return personal_stat
-
         raise ModuleNotFoundError
 
     def find_puuid(self, user_info: dict) -> str:

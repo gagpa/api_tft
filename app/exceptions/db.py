@@ -1,0 +1,2 @@
+class DbRecordNotExist(Exception):
+    pass

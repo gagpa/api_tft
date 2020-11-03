@@ -1,2 +1,2 @@
-from .info_dealer import InfoDealer
-from .stream import Stream
+from .matches_info_dealer import MatchesInfoDealer
+from .user_info_dealer import UserInfoDealer
